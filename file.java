@@ -1,9 +1,9 @@
-hello from dev1
+hello from dev2
 {
-	public static void main() # dev1
+	public static void main() # dev2
 	{
 
 	
-		system.out.printl("") # dev1
+		system.out.printl("") # dev2
 	}
 }
