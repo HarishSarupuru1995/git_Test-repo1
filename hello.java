@@ -1,18 +1,15 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> e162e1acdac0b7c217703390e11cb067e7584a88
-hello.java
+hello.java # dev1
 {
-	public static void main()
+	public static void main("dev1")
 	{
-		system.out.println()
+		system.out.println("#dev1")
 
-<<<<<<< HEAD
+
 	}
-=======
+
 	
-	}
 
->>>>>>> e162e1acdac0b7c217703390e11cb067e7584a88
+
+
 }

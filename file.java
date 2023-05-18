@@ -1,24 +1,13 @@
-<<<<<<< HEAD
-hi
-my name is harish
 
-{
-	i love my country
-	{
-		all indians are my brothers
-			not sisters
-	}
-}
-=======
-hi my name is harish
+hi my name is harish #dev1
 
 i am doing ok
 
-i am from India
+i am from India #dev1
 
 i love my country
 
-all indians are my brothers a
+all indians are my brothers a# dev1
 
 not sisters
->>>>>>> e162e1acdac0b7c217703390e11cb067e7584a88
+
